@@ -1,3 +1,4 @@
 
 # Project exclude paths
 /spring-security/target/
+.idea
